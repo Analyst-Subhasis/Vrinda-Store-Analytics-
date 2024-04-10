@@ -1,2 +1,6 @@
 # Vrinda-Store-Analytics-
-Madav Store pre Diwali strategical analysis . 
+
+Vrinda Store pre Diwali strategical Analysis . 
+
+Finding the sales across several domains . 
+
